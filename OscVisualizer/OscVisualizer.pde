@@ -6,7 +6,7 @@ OscParticles oscParticles;
 
 void setup()
 {
-  size(1000, 700);
+  size(800, 600);
   background(0);
   noStroke();
 
